@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1600972504 source:/home/battle_programmer/proj/ttd/task.cpp
+	<array>
+
+1600972847 source:/home/battle_programmer/proj/ttd/main.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	"tasklist.h"
+
+1600972188 /home/battle_programmer/proj/ttd/tasklist.h
+	<list>
+	"task.h"
+
+1600972480 /home/battle_programmer/proj/ttd/task.h
+	<array>
+
+1600972504 source:/home/battle_programmer/proj/ttd/tasklist.cpp
+	<iostream>
+	<fstream>
+	<list>
+	<array>
+	"task.h"
+
