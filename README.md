@@ -1,2 +1,2 @@
-# just-effin-do-it
+# tings to do
 small console secretary
